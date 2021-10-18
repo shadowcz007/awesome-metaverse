@@ -1,5 +1,8 @@
 # awesome-metaverse
+<a href="https://awesome.re" target="_blank"><img alt="Awesome" src="https://awesome.re/badge-flat.svg" /></a>
 
+> :gift:  :gem: :rocket: Useful resources for creating Meta-verse 
+> 
 
 ## 🌍 3D/Virtual Spaces 虚拟空间
 
