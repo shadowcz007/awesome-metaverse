@@ -93,6 +93,9 @@
 
 ## 🖼️ Art in the Metaverse 艺术
 
+[Stage11](https://stage11.com/)
+- Reimagining Music for the Metaverse
+
 [Museum of Crypto Art](https://museumofcryptoart.com/)
 - a cultural institution for crypto art
 
