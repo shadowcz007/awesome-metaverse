@@ -330,3 +330,6 @@
 
 [Open Metaverse Interoperability Group](https://github.com/omigroup/omigroup/)
 - promoting protocols of the metaverse
+
+## 🔥 Jobs 工作机会
+[the metaverse jobs](https://www.themetaversejobs.com/)
