@@ -127,6 +127,9 @@
 [Ready Player Me](https://readyplayer.me/)
 - cross-game avatar platform
 
+[Pinscreen](http://pinscreen.com/)
+- The Most Advanced AI-Driven Virtual Avatars
+
 ## 👔 Digital Fashion 数字时尚
 
 [Style3D](https://www.style3d.com)
