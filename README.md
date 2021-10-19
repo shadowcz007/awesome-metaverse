@@ -9,7 +9,8 @@
 [AltspaceVR](https://altvr.com/)
 - a social VR platform
 
-
+[NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/)
+- an easily extensible, open platform built for virtual collaboration and real-time physically accurate simulation.
 
 [Bigscreen](https://bigscreenvr.com/)
 - watch movies and hangout with friends in VR
