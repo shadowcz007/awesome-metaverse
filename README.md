@@ -92,6 +92,12 @@
 - mixed reality headset from Nreal
 
 
+## 🎧 Other Hardware 其他硬件
+
+[GateBox](https://www.gatebox.ai/)
+- Living with Characters
+- 
+
 ## 🖼️ Art in the Metaverse 艺术
 
 [Stage11](https://stage11.com/)
