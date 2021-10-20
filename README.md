@@ -260,6 +260,15 @@
 [Zora](https://zora.co/)
 - decentralized marketplace protocol
 
+## 🤖️ AI-NFT 智能NFT
+
+[Noah’s Ark](https://alethea.ai/)
+- Noah’s Ark is an Intelligent Metaverse that aims to preserve and evolve the culture and collective Intelligence of the human species.
+
+[Cryptosynth](https://github.com/g0dEngineer/Cryptosynth)
+- A Cryptosynth Aeon is an Ai powered NFT (Non-fungible-token) or Crypto-art that users can actually download and talk to, powered by blender3d and gpt-2 conversational ai module.
+
+
 ## Volumetric Capture
 
 [8i](https://8i.com/)
