@@ -180,6 +180,10 @@
 [Tribute Brand](https://tribute-brand.com/)
 - contactless & cyber fashion
 
+[ZERO10](https://010.community)
+- a new generation digital fashion platform.
+
+
 ## 📺 Displays 展示
 
 [Nifted](https://nifted.com/)
