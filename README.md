@@ -328,6 +328,8 @@
 [Why the Metaverse Needs to Be Open](https://spectrum.ieee.org/open-metaverse)
 - a Q&A by the IEEE
 
+[Building the Metaverse One Standard at a Time](https://www.khronos.org/assets/uploads/developers/library/2018-web3d/Web3D-Keynote-Poznan-2D_Jun18.pdf)
+- by Neil Trevett. Web3D. June 2018
 
 ## 📻 Podcasts 播客
 
