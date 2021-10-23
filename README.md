@@ -154,6 +154,9 @@
 [Pinscreen](http://pinscreen.com/)
 - The Most Advanced AI-Driven Virtual Avatars
 
+[VRM](https://vrm.dev/en/)
+- 3D Avatar File Format for VR . A file format for handling 3D humanoid avatar (3D model) data for VR applications
+
 ## 👔 Digital Fashion 数字时尚
 
 [Style3D](https://www.style3d.com)
