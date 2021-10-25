@@ -6,13 +6,13 @@
 ## 🌍 3D/Virtual Spaces 虚拟空间
 
 
-## > Universal Digital Developing Platform 协作类开发平台
+### > Universal Digital Developing Platform 协作类开发平台
 [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/)
 - an easily extensible, open platform built for virtual collaboration and real-time physically accurate simulation.
 
 
 
-## > Content Social Spaces  社交类及内容融合空间
+### > Content Social Spaces  社交类及内容融合空间
 
 [Second Life](https://secondlife.com/)
 - an online virtual world
@@ -40,7 +40,7 @@
 
 
 
-## > Sandbox & user space experience platform   沙盒及内容体验构建平台
+### > Sandbox & user space experience platform   沙盒及内容体验构建平台
 
 [CryptoVoxels](https://www.cryptovoxels.com/)
 - a virtual world and metaverse
@@ -52,7 +52,7 @@
 - a metaverse with smaller microverses
 - NFT 特征
 
-## > Space and construction visulizaiton platform  空间及结构可视化内容平台
+### > Space and construction visulizaiton platform  空间及结构可视化内容平台
 
 [Rooom](http://rooom.com/)
 - all-in-one solution for virtual events
@@ -64,7 +64,7 @@
 - 3D venues to share and connect
 
 
-## > A bit of everything 大综合
+### > A bit of everything 大综合
 
 [Somnium Space](https://www.somniumspace.com/)
 - an open persistent VR world
