@@ -165,6 +165,9 @@
 [DressX](https://dressx.com/)
 - digital fashion multibrand retailer
 
+[DIGITALAX](https://www.digitalax.xyz/homepage)
+- DIGITALAX is Building the First Web3 Fashion Operating System.
+
 [PlatformE](https://www.platforme.com/)
 - fashion's platform for mass customization
 
