@@ -189,6 +189,12 @@
 [ZERO10](https://010.community)
 - a new generation digital fashion platform.
 
+[THE DIIGITALS](https://www.thediigitals.com/)
+- THE WORLD'S FIRST ALL DIGITAL MODELLING AGENCY
+
+[janissne](https://janissne.com/)
+[atacac](https://atacac.com)
+- Digital Fashion house
 
 ## 📺 Displays 展示
 
