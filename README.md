@@ -157,6 +157,10 @@
 [VRM](https://vrm.dev/en/)
 - 3D Avatar File Format for VR . A file format for handling 3D humanoid avatar (3D model) data for VR applications
 
+[KalidoKit](https://github.com/yeemachine/kalidokit)
+- Face, Pose, and Hand Tracking Kinematics
+- 面部、动作捕捉，开源项目
+
 ## 👔 Digital Fashion 数字时尚
 
 [Style3D](https://www.style3d.com)
@@ -303,7 +307,7 @@
 - A Cryptosynth Aeon is an Ai powered NFT (Non-fungible-token) or Crypto-art that users can actually download and talk to, powered by blender3d and gpt-2 conversational ai module.
 
 
-## Volumetric Capture
+## 📹 Volumetric Capture 容积捕获
 
 [8i](https://8i.com/)
 - capture, transform, and stream holograms
