@@ -157,6 +157,9 @@
 [VRM](https://vrm.dev/en/)
 - 3D Avatar File Format for VR . A file format for handling 3D humanoid avatar (3D model) data for VR applications
 
+[VRoid studio](https://vroid.com/en/studio)
+- 3D Character Creation Software
+
 [KalidoKit](https://github.com/yeemachine/kalidokit)
 - Face, Pose, and Hand Tracking Kinematics
 - 面部、动作捕捉，开源项目
