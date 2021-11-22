@@ -74,6 +74,11 @@
 - virtual spaces that bring us together
 - 轻量化技术
 
+[HIKKY](https://www.hikky.life/cn)
+- By hosting the world's largest VR event and providing a VR development engine, we realize an open metaverse that transcends the barriers of platforms.
+- 通过举办世界上最大的虚拟现实活动并提供虚拟现实开发引擎，HIKKY实现了一个跨平台的开放元宇宙。
+- 
+
 ## 👓 AR/VR Hardware 硬件
 
 [HiAR H100](https://www.hiscene.com/product/h100)
