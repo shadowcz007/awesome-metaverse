@@ -249,7 +249,7 @@
 - a space exploration strategy game
 
 [The Sandbox](https://www.sandbox.game/en/)
-- a virtual world sandbox game
+- The Sandbox Game — User-Generated Crypto & Blockchain Games
 
 [Upland](https://www.upland.me/)
 - a metaverse mapped to the real world
