@@ -87,6 +87,13 @@
 - 3D experience on the planet CypherFly-X9512
 - 探险家
 
+[metaverses.io](https://www.metaverses.io/)
+- The Metaverse Platform
+- Explore metaverses and/or host your own metaverse today!
+- 通过定义json来定义自己的虚拟空间
+- saas服务
+
+
 ## 👓 AR/VR Hardware 硬件
 
 [HiAR H100](https://www.hiscene.com/product/h100)
