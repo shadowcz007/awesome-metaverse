@@ -2,17 +2,17 @@
 <a href="https://awesome.re" target="_blank"><img alt="Awesome" src="https://awesome.re/badge-flat.svg" /></a>
 
 > :gift:  :gem: :rocket: Useful resources for creating Meta-verse 
-> 
+
+
 ## 🌍 3D/Virtual Spaces 虚拟空间
 
 
-### > Universal Digital Developing Platform 协作类开发平台
+### Universal Digital Developing Platform 协作类开发平台
 [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/)
 - an easily extensible, open platform built for virtual collaboration and real-time physically accurate simulation.
 
 
-
-### > Content Social Spaces  社交类及内容融合空间
+### Content Social Spaces  社交类及内容融合空间
 
 [Second Life](https://secondlife.com/)
 - an online virtual world
@@ -38,9 +38,13 @@
 - customizable virtual spaces
 - 2D 特征
 
+[Uhive - A Social Metaverse](https://www.uhive.com)
+- Step into the world’s-first social metaverse 
+- Designed for billions of users & infinite possibilities
+- 社交元宇宙
 
 
-### > Sandbox & user space experience platform   沙盒及内容体验构建平台
+### Sandbox & user space experience platform   沙盒及内容体验构建平台
 
 [CryptoVoxels](https://www.cryptovoxels.com/)
 - a virtual world and metaverse
@@ -52,7 +56,7 @@
 - a metaverse with smaller microverses
 - NFT 特征
 
-### > Space and construction visulizaiton platform  空间及结构可视化内容平台
+### Space and construction visulizaiton platform  空间及结构可视化内容平台
 
 [Rooom](http://rooom.com/)
 - all-in-one solution for virtual events
@@ -64,7 +68,7 @@
 - 3D venues to share and connect
 
 
-### > A bit of everything 大综合
+### A bit of everything 大综合
 
 [Somnium Space](https://www.somniumspace.com/)
 - an open persistent VR world
@@ -115,7 +119,25 @@
 - mixed reality headset from Nreal
 
 
-## 🎧 Other Hardware 其他硬件
+## 📺 Displays 展示
+
+[Nifted](https://nifted.com/)
+- showcase NFTs
+
+[Infinite Objects](https://infiniteobjects.com/)
+- a display for looping videos
+
+[Looking Glass Factory](https://lookingglassfactory.com/)
+- Looking Glass Factory serves the holographic needs of artists, developers and enterprises.
+
+[PORTL](https://www.portlhologram.com/)
+- PORTL is the first device that lets people beam themselves to a location thousands of miles away and interact with people there. 
+
+[Project Starline](https://blog.google/technology/research/project-starline/)
+- holographic video booth by Google
+
+[Tokenframe](https://tokenframe.com/)
+- bring your NFT art to life
 
 [GateBox](https://www.gatebox.ai/)
 - Living with Characters
@@ -131,6 +153,51 @@
 
 [Sotheby's Metaverse](https://metaverse.sothebys.com/)
 - an immersive destination from Sotheby's
+
+
+## 🖌️ NFTs 数字艺术
+
+[Artion](https://artion.io/)
+- NFTs on Fantom
+
+[CANDY](https://candy.com/)
+- a digital collectible experience
+
+[Foundation](https://foundation.app/)
+- create, explore, & collect NFTs
+
+[Lazy](https://lazy.com/)
+- show off your NFTs
+
+[Manifold](https://www.manifold.xyz/)
+- blockchain products for NFT communities
+
+[NiftyGateway](https://niftygateway.com/)
+- digital art drops by Gemini
+
+[OpenSea](https://opensea.io/)
+- discover, collect, & sell NFTs
+
+[Rarible](https://rarible.com/)
+- create, sell, or collect digital items
+
+[Solanart](https://solanart.io/)
+- NFTs on Solana
+
+[SuperRare](https://superrare.com/)
+- digital art marketplace
+
+[Zora](https://zora.co/)
+- decentralized marketplace protocol
+
+
+## 🤖️ AI-NFT 智能NFT
+
+[Noah’s Ark](https://alethea.ai/)
+- Noah’s Ark is an Intelligent Metaverse that aims to preserve and evolve the culture and collective Intelligence of the human species.
+
+[Cryptosynth](https://github.com/g0dEngineer/Cryptosynth)
+- A Cryptosynth Aeon is an Ai powered NFT (Non-fungible-token) or Crypto-art that users can actually download and talk to, powered by blender3d and gpt-2 conversational ai module.
 
 
 ## 👨 Avatar Creation 虚拟身份
@@ -208,25 +275,6 @@
 [atacac](https://atacac.com)
 - Digital Fashion house
 
-## 📺 Displays 展示
-
-[Nifted](https://nifted.com/)
-- showcase NFTs
-
-[Infinite Objects](https://infiniteobjects.com/)
-- a display for looping videos
-
-[Looking Glass Factory](https://lookingglassfactory.com/)
-- Looking Glass Factory serves the holographic needs of artists, developers and enterprises.
-
-[PORTL](https://www.portlhologram.com/)
-- PORTL is the first device that lets people beam themselves to a location thousands of miles away and interact with people there. 
-
-[Project Starline](https://blog.google/technology/research/project-starline/)
-- holographic video booth by Google
-
-[Tokenframe](https://tokenframe.com/)
-- bring your NFT art to life
 
 ## 🎮 Gaming 游戏
 
@@ -257,6 +305,7 @@
 [Treeverse](https://www.treeverse.net/)
 - a sci-fi/fantasy based MMORPG
 
+
 ## 🎵 Music in the Metaverse 音乐
 
 [NOYS VR](https://www.noysvr.com/)
@@ -271,48 +320,6 @@
 [Wave](https://wavexr.com/)
 - interactive virtual concerts
 
-## 🖌️ NFTs 数字艺术
-
-[Artion](https://artion.io/)
-- NFTs on Fantom
-
-[CANDY](https://candy.com/)
-- a digital collectible experience
-
-[Foundation](https://foundation.app/)
-- create, explore, & collect NFTs
-
-[Lazy](https://lazy.com/)
-- show off your NFTs
-
-[Manifold](https://www.manifold.xyz/)
-- blockchain products for NFT communities
-
-[NiftyGateway](https://niftygateway.com/)
-- digital art drops by Gemini
-
-[OpenSea](https://opensea.io/)
-- discover, collect, & sell NFTs
-
-[Rarible](https://rarible.com/)
-- create, sell, or collect digital items
-
-[Solanart](https://solanart.io/)
-- NFTs on Solana
-
-[SuperRare](https://superrare.com/)
-- digital art marketplace
-
-[Zora](https://zora.co/)
-- decentralized marketplace protocol
-
-## 🤖️ AI-NFT 智能NFT
-
-[Noah’s Ark](https://alethea.ai/)
-- Noah’s Ark is an Intelligent Metaverse that aims to preserve and evolve the culture and collective Intelligence of the human species.
-
-[Cryptosynth](https://github.com/g0dEngineer/Cryptosynth)
-- A Cryptosynth Aeon is an Ai powered NFT (Non-fungible-token) or Crypto-art that users can actually download and talk to, powered by blender3d and gpt-2 conversational ai module.
 
 
 ## 📹 Volumetric Capture 容积捕获
