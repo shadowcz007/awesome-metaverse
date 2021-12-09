@@ -421,3 +421,8 @@
 
 ## 🔥 Jobs 工作机会
 [the metaverse jobs](https://www.themetaversejobs.com/)
+
+## 🏠 community 社区
+[The Sims Resource](https://www.thesimsresource.com/)
+- The Sims Resource is the world's largest online community for The Sims franchise, with new content daily, mainly for The Sims 4
+- 
