@@ -81,7 +81,11 @@
 [HIKKY](https://www.hikky.life/cn)
 - By hosting the world's largest VR event and providing a VR development engine, we realize an open metaverse that transcends the barriers of platforms.
 - 通过举办世界上最大的虚拟现实活动并提供虚拟现实开发引擎，HIKKY实现了一个跨平台的开放元宇宙。
-- 
+
+[The Explorers](https://thexplorers.xyz/)
+- The Explorers presents EtherFly
+- 3D experience on the planet CypherFly-X9512
+- 探险家
 
 ## 👓 AR/VR Hardware 硬件
 
