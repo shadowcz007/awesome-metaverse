@@ -268,6 +268,10 @@
 - Face, Pose, and Hand Tracking Kinematics
 - 面部、动作捕捉，开源项目
 
+[Snap Camera](https://snapcamera.snapchat.com/)
+- Bring the magic of Lenses to your live streams and video chats on PC & Mac
+- 进入元宇宙直播神器
+
 ## 👔 Digital Fashion 数字时尚
 
 [Style3D](https://www.style3d.com)
