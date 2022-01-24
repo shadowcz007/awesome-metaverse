@@ -272,6 +272,10 @@
 - Bring the magic of Lenses to your live streams and video chats on PC & Mac
 - 进入元宇宙直播神器
 
+[Avatary FACEGOOD](http://www.facegood.cc/)
+- Make a World of Avatars
+- 
+
 ## 👔 Digital Fashion 数字时尚
 
 [Style3D](https://www.style3d.com)
