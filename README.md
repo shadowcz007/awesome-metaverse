@@ -71,6 +71,11 @@
 - Turn Text into Film
 - 创建3D影片
 
+[FFORMS](https://www.fforms.com/)
+- A collection of modular architecture made for the metaverse. 
+- Each FFORM NFT contains an unlockable 3D model designed for compatibility in Decentraland and beyond.
+- 创建元宇宙模块化建筑
+
 
 ### Space and construction visulizaiton platform  空间及结构可视化内容平台
 
