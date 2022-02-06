@@ -454,6 +454,10 @@
 - a Brooklyn-based digital artist and architect. His work explores metaverse architecture and design concepts emerging from blockchain technology.
 - 数字艺术家和建筑师
 
+[METAVERSE BUILDER](https://www.metaversebuilder.co/)
+- Pioneering the building of new virtual spaces so you can bring new experiences to your audience.
+- 建筑、时尚
+
 
 ## 🔥 Jobs 工作机会
 [the metaverse jobs](https://www.themetaversejobs.com/)
