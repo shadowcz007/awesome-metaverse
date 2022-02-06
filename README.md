@@ -449,6 +449,12 @@
 [Open Metaverse Interoperability Group](https://github.com/omigroup/omigroup/)
 - promoting protocols of the metaverse
 
+## 💴 Creators 创作者
+[untitled, xyz](https://www.untitledxyz.com)
+- a Brooklyn-based digital artist and architect. His work explores metaverse architecture and design concepts emerging from blockchain technology.
+- 数字艺术家和建筑师
+
+
 ## 🔥 Jobs 工作机会
 [the metaverse jobs](https://www.themetaversejobs.com/)
 
