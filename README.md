@@ -325,7 +325,8 @@
 - learn, earn, play, create
 
 [Fortnite](https://fortnite.com/)
-- a survival game by Epic Games
+- a Free-to-Play Battle Royale game by Epic Games
+- 《堡垒之夜》是一款免费、不断发展的多人游戏，你和你的好友可以在游戏中为了成为最后幸存者而战斗，或者通过合作创造你梦想的《堡垒之夜》世界。
 
 [Horizon Worlds](https://www.oculus.com/facebook-horizon/)
 - explore and play in VR by Facebook
