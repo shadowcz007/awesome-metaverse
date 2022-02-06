@@ -87,8 +87,8 @@
 ### A bit of everything 大综合
 
 [Somnium Space](https://www.somniumspace.com/)
-- an open persistent VR world
-- 大综合类 
+- Somnium Spaceis an open, social & persistent Virtual Reality platform built on the Blockchain.
+- 大综合类，购买虚拟地块、使用NFTs等。
 
 [Spatial](https://spatial.io/)
 - virtual spaces that bring us together
