@@ -283,7 +283,13 @@
 
 [Avatary FACEGOOD](http://www.facegood.cc/)
 - Make a World of Avatars
-- 
+
+[Replika: My AI Friend](https://replika.ai/)
+- The AI companion who cares ,Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
+- AI伴侣
+
+
+
 
 ## 👔 Digital Fashion 数字时尚
 
