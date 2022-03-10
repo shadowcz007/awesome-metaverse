@@ -178,7 +178,7 @@
 
 [GateBox](https://www.gatebox.ai/)
 - Living with Characters
-- 
+- Gatebox是一款专为宅男定制的家用智能化全息机器人
 
 ## 🖼️ Art in the Metaverse 艺术
 
