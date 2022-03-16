@@ -97,7 +97,8 @@
 
 [Spatial](https://spatial.io/)
 - virtual spaces that bring us together
-- 轻量化技术
+- [打通了虚拟空间、nft创作者经济的元宇宙](https://mp.weixin.qq.com/s/ttiRiFsVR7gnXe-O-NWLNA)
+- 
 
 [HIKKY](https://www.hikky.life/cn)
 - By hosting the world's largest VR event and providing a VR development engine, we realize an open metaverse that transcends the barriers of platforms.
@@ -118,6 +119,9 @@
 [metaworld.app](https://creator.metaapp.cn/)
 - 一站式解决全链路痛点需求,从资源、开发工具、部署上线、获客流量、数据分析到变现
 - YOU CREATE, WE TAKE CARE OF THE REST
+
+[ambush](https://ambushsilverfctry.io/)
+- 高级潮牌做的虚拟空间
 
 
 ## 👓 AR/VR Hardware 硬件
@@ -435,6 +439,9 @@
 [Welcome to the Metaverse](https://open.spotify.com/show/1VXZAMyo0nzrW2neDtk6fa/)
 - hosted by MetaverseLuke
 
+[元宇宙·跨学科即兴对话](https://www.ximalaya.com/album/54239586)
+- 源自mixlab无界社区的播客
+- [纪念品](https://opensea.io/collection/metaverse-sn-mixlab)
 
 ## 🏫 Conferences & Events 会议&事件
 
@@ -472,6 +479,7 @@
 [METAVERSE BUILDER](https://www.metaversebuilder.co/)
 - Pioneering the building of new virtual spaces so you can bring new experiences to your audience.
 - 建筑、时尚
+
 
 
 ## 🔥 Jobs 工作机会
