@@ -481,11 +481,14 @@
 - 建筑、时尚
 
 
-
 ## 🔥 Jobs 工作机会
 [the metaverse jobs](https://www.themetaversejobs.com/)
 
 ## 🏠 community 社区
 [The Sims Resource](https://www.thesimsresource.com/)
 - The Sims Resource is the world's largest online community for The Sims franchise, with new content daily, mainly for The Sims 4
+- 
+
+## 🌏 Marketing 营销
+- [Metaverse marketing allows brands to maximise their creativity and reach their target audience most attractively. That’s why brands are turning their faces to the metaverse for digital marketing one by one.](https://mp.weixin.qq.com/s/FKqtRZ9aOY0MpK2hjpoxHg)
 - 
