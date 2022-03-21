@@ -271,6 +271,12 @@
 
 [Ready Player Me](https://readyplayer.me/)
 - cross-game avatar platform
+- 
+
+[Alter ](https://github.com/facemoji/alter-core)
+- Alter is a cross-platform SDK consisting of a real-time 3D avatar system and motion capture built from scratch for web3 interoperability and the open metaverse.
+- 开源的实时3D头像解决方案
+- 
 
 [Pinscreen](http://pinscreen.com/)
 - The Most Advanced AI-Driven Virtual Avatars
