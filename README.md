@@ -128,6 +128,9 @@
 [Earth 2®](https://earth2.io/)
 - Earth 2® is a futuristic concept for a second earth; a metaverse, between virtual and physical reality in which real-world geolocations on a sectioned map correspond to user generated digital virtual environments. These environments can be owned, bought, sold, and in the near future deeply customized.
 
+[MonoAI](https://monoai.co.jp/company)
+- 多人即时通信与虚拟空间平台
+
 
 ## 👓 AR/VR Hardware 硬件
 
