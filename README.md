@@ -23,6 +23,7 @@
 
 [Bigscreen](https://bigscreenvr.com/)
 - watch movies and hangout with friends in VR
+- [中文介绍](https://mp.weixin.qq.com/s/0SKemtMvvTa6CLww8WBHcw)
 
 [Breakroom](https://www.breakroom.net/)
 - 3D virtual world platform
