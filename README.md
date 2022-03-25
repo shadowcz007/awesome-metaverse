@@ -44,6 +44,12 @@
 - Designed for billions of users & infinite possibilities
 - 社交元宇宙
 
+[Kode Sports Club](https://www.kodeclubs.com/)
+- kode sports club new cairo opening in Q2 2022
+- 基于threejs的网页版虚拟空间
+
+
+
 
 ### Sandbox & user space experience platform   沙盒及内容体验构建平台
 
