@@ -23,7 +23,7 @@
 
 [Bigscreen](https://bigscreenvr.com/)
 - watch movies and hangout with friends in VR
-- [中文介绍](https://mp.weixin.qq.com/s/0SKemtMvvTa6CLww8WBHcw)
+- [元宇宙社交产品推荐 #Bigscreen](https://mp.weixin.qq.com/s/0SKemtMvvTa6CLww8WBHcw)
 
 [Breakroom](https://www.breakroom.net/)
 - 3D virtual world platform
@@ -38,6 +38,7 @@
 [Gather](https://www.gather.town/)
 - customizable virtual spaces
 - 2D 特征
+- [数百万人的元宇宙](https://mp.weixin.qq.com/s/2zf5gv9CdqOhB1lErlusSQ)
 
 [Uhive - A Social Metaverse](https://www.uhive.com)
 - Step into the world’s-first social metaverse 
