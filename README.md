@@ -218,6 +218,7 @@
 
 [Museum of Crypto Art](https://museumofcryptoart.com/)
 - a cultural institution for crypto art
+- [NFT艺术博物馆](https://mp.weixin.qq.com/s/nMTAqzgmqB63_nSOGvWO3A)
 
 [Sotheby's Metaverse](https://metaverse.sothebys.com/)
 - an immersive destination from Sotheby's
