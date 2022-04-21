@@ -283,6 +283,7 @@
 
 [Alethea AI](https://alethea.ai/)
 - bring NFT avatars to life with AI
+- [白皮书解读](https://mp.weixin.qq.com/s/IBGQT1RrAR1T03rlfVbSrw)
 
 [Avatar SDK](https://avatarsdk.com/)
 - AI-powered 3D avatars
