@@ -149,6 +149,10 @@
 - VR/AR/MR creative platform for artists
 - [创作VR作品](https://mp.weixin.qq.com/s/D_euAXrlAGQ2PFop_8-wpw)
 
+[JOURNEE](https://journee.live/)
+- RECONNECTING HUMANS AND BRANDS IN VIRTUAL SPACES.
+- [NFTism at Art Basel Miami Beach Designed by Zaha Hadid Architects, powered by JOURNEE](https://amazingarchitecture.com/news/nftism-at-art-basel-miami-beach-designed-by-zaha-hadid-architects-powered-by-journee)
+
 
 
 ## 👓 AR/VR Hardware 硬件
