@@ -307,6 +307,7 @@
 
 [Ready Player Me](https://readyplayer.me/)
 - cross-game avatar platform
+- [NFT](https://readyplayer.me/nfts) Ready Player Me enables owners of NFTs to wear their assets across hundreds of games and apps across the metaverse
 - 
 
 [Alter ](https://github.com/facemoji/alter-core)
