@@ -47,7 +47,7 @@
 
 [Kode Sports Club](https://www.kodeclubs.com/)
 - kode sports club new cairo opening in Q2 2022
-- 基于threejs的网页版虚拟空间
+- [基于threejs的网页版虚拟空间-体育元宇宙](https://mp.weixin.qq.com/s/tmLCQ_HtOr6ANiNdx_b6LA)
 
 
 
@@ -82,7 +82,7 @@
 [FFORMS](https://www.fforms.com/)
 - A collection of modular architecture made for the metaverse. 
 - Each FFORM NFT contains an unlockable 3D model designed for compatibility in Decentraland and beyond.
-- 创建元宇宙模块化建筑
+- [创建元宇宙模块化建筑](https://mp.weixin.qq.com/s/VHAtgSyxVEZpjMfOsgIEeA)
 
 
 ### Space and construction visulizaiton platform  空间及结构可视化内容平台
