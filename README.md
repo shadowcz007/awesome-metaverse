@@ -538,12 +538,14 @@
 
 ## 🌏 Marketing 营销
 - Metaverse marketing allows brands to maximise their creativity and reach their target audience most attractively. That’s why brands are turning their faces to the metaverse for digital marketing one by one.
-- [元宇宙营销](https://mp.weixin.qq.com/s/FKqtRZ9aOY0MpK2hjpoxHg)
+- [元宇宙营销](https://mp.weixin.qq.com/s/qmCdAxbaWbMKVM4dcNXGmQ)
 
 
 
 ## Support
 - [Discord](https://discord.gg/x7GsmuTQjV)
+
+
 
 
 ## License
