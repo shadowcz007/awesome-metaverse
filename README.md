@@ -308,6 +308,12 @@
 [Ready Player Me](https://readyplayer.me/)
 - cross-game avatar platform
 - [NFT](https://readyplayer.me/nfts) Ready Player Me enables owners of NFTs to wear their assets across hundreds of games and apps across the metaverse
+
+
+[animaze](https://www.animaze.us)
+- Interactive Creativity
+- Join a community of over 1 million Streamers, YouTubers, VTubers, Artists, and Creatives who use our avatars!
+- Animaze puts AAA-quality avatars in your hands so you can create interactive avatar-based entertainment for audiences around the world. 
 - 
 
 [Alter ](https://github.com/facemoji/alter-core)
