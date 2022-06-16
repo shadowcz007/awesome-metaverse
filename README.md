@@ -160,7 +160,9 @@
 - RECONNECTING HUMANS AND BRANDS IN VIRTUAL SPACES.
 - [NFTism at Art Basel Miami Beach Designed by Zaha Hadid Architects, powered by JOURNEE](https://amazingarchitecture.com/news/nftism-at-art-basel-miami-beach-designed-by-zaha-hadid-architects-powered-by-journee)
 
-
+[MARS META](http://marsplanningbureau.com)
+- YOUR JOURNEY TO MARS METAVERSE
+- 
 
 ## 👓 AR/VR Hardware 硬件
 
