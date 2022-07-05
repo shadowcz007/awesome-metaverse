@@ -347,7 +347,9 @@
 - The AI companion who cares ,Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
 - AI伴侣
 
-
+[Mvmi](https://getmovmi.com)
+- Human AI powered Motion Capture
+- 人工智能驱动的动作捕捉工具
 
 
 ## 👔 Digital Fashion 数字时尚
