@@ -351,6 +351,17 @@
 - Human AI powered Motion Capture
 - 人工智能驱动的动作捕捉工具
 
+[Plask](https://plask.ai)
+- Quickly animate your character with just a webcam
+- Edit your animation with our browser-based editing tool
+
+
+[Animate 3D](https://www.deepmotion.com/animate-3d)
+- Generate 3D animations from video
+- AI Motion Capture, Made Simple
+- Create 3D Animations in Seconds
+- Character Retargeting & Preview
+
 
 ## 👔 Digital Fashion 数字时尚
 
