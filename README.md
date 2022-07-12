@@ -68,6 +68,11 @@
 - UGC Social Entertainment Platform
 - 
 
+[Croquet OS](https://croquet.io/index.html)
+- the Operating System for the Metaverse
+- [Croquet Microverse ](https://github.com/croquet/microverse)
+
+
 
 ### Design Tools 设计工具
 
@@ -542,6 +547,10 @@
 
 [Open Metaverse Interoperability Group](https://github.com/omigroup/omigroup/)
 - promoting protocols of the metaverse
+
+[The Metaverse Standards Forum](https://metaverse-standards.org)
+- Where Leading Standards Organizations and Companies Cooperate to Foster Interoperability Standards for an Open Metaverse
+
 
 ## 💴 Creators 创作者
 [untitled, xyz](https://www.untitledxyz.com)
