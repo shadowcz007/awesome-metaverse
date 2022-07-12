@@ -362,6 +362,10 @@
 - Create 3D Animations in Seconds
 - Character Retargeting & Preview
 
+[Rokoko Studio](https://www.rokoko.com/studio)
+- A new ecosystem for editing animation
+- Real-time 3D character animation software for all creators
+
 
 ## 👔 Digital Fashion 数字时尚
 
