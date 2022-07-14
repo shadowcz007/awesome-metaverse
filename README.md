@@ -293,6 +293,10 @@
 
 ## 👨 Avatar Creation 虚拟身份
 
+[MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman)
+- Framework for creating high-fidelity digital humans in minutes.
+- [3Lateral Rig Logic](https://www.3lateral.com)
+
 [Digital humans](https://digitalhumans.com/)
 - Build your own digital human.With UneeQ Creator, you can design, develop and deploy your own customized, AI-powered digital humans in a matter of minutes.
 
