@@ -376,6 +376,13 @@
 - Real-time 3D character animation software for all creators
 
 
+[Speech Graphics](https://www.speech-graphics.com/facial-animation-and-lip-sync-products)
+- At Speech Graphics we specialize in one of the holy grails of computer facial animation: automatic, accurate lip sync. 
+- SGX is an award winning, production tested, automatic speech-to-facial animation system. 
+
+
+
+
 ## 👔 Digital Fashion 数字时尚
 
 [Style3D](https://www.style3d.com)
