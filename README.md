@@ -40,6 +40,11 @@
 - 2D 特征
 - [数百万人的元宇宙](https://mp.weixin.qq.com/s/2zf5gv9CdqOhB1lErlusSQ)
 
+[flat.social](https://flat.social)
+- customizable virtual spaces
+- physics
+- 2D 特征
+
 [Uhive - A Social Metaverse](https://www.uhive.com)
 - Step into the world’s-first social metaverse 
 - Designed for billions of users & infinite possibilities
