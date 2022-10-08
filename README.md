@@ -3,6 +3,7 @@
 
 > :gift:  :gem: :rocket: Useful resources for creating Meta-verse 
 
+ [![Star History Chart](https://api.star-history.com/svg?repos=shadowcz007/awesome-metaverse&type=Date)](https://star-history.com/#shadowcz007/awesome-metaverse&Date)
 
 ## 🌍 3D/Virtual Spaces 虚拟空间
 
