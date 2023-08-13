@@ -250,6 +250,9 @@
 
 ## 🖌️ NFTs 数字艺术
 
+[landindex.io](https://landindex.io) 
+- [Metaverse Data Aggregation & Analytics Resources](landindex.io) is a Metaverse data analytics tool that helps businesses and investors to understand the value of the land at Metaverse. Dashboards of virtual land analytics for Otherdeed for Otherside, The Sandbox, Decentraland other leading virtual worlds.
+
 [Artion](https://artion.io/)
 - NFTs on Fantom
 
